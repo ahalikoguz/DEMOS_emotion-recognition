@@ -18,4 +18,4 @@ You can access the pre-trained models from the following link:
 ## How to Use
 1. **Download Models**: Download the `.pth` files and place them in a folder named `model_folder` inside your project directory.
 
-2. **Testing**: Use the provided `test.py` script to evaluate the models. 
+2. **Testing**: Use the provided `main_test.py` script to evaluate the models. 
